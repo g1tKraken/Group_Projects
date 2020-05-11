@@ -1,0 +1,1072 @@
+GeoFips,GeoName,LineCode,Description,2018
+1000,Alabama,70,  Farm employment,42220
+1000,Alabama,100,"      Forestry, fishing, and related activities",15895
+1000,Alabama,200,"      Mining, quarrying, and oil and gas extraction",10560
+1000,Alabama,300,      Utilities,14176
+1000,Alabama,400,      Construction,148326
+1000,Alabama,500,      Manufacturing,277818
+1000,Alabama,600,      Wholesale trade,80467
+1000,Alabama,700,      Retail trade,283951
+1000,Alabama,800,      Transportation and warehousing,92524
+1000,Alabama,900,      Information,28091
+1000,Alabama,1000,      Finance and insurance,113388
+1000,Alabama,1100,      Real estate and rental and leasing,110086
+1000,Alabama,1200,"      Professional, scientific, and technical services",154593
+1000,Alabama,1300,      Management of companies and enterprises,18464
+1000,Alabama,1400,      Administrative and support and waste management and remediation services,186008
+1000,Alabama,1500,      Educational services,42602
+1000,Alabama,1600,      Health care and social assistance,253353
+1000,Alabama,1700,"      Arts, entertainment, and recreation",41751
+1000,Alabama,1800,      Accommodation and food services,201350
+1000,Alabama,1900,      Other services (except government and government enterprises),171427
+1000,Alabama,2000,    Government and government enterprises,404467
+2000,Alaska,70,  Farm employment,1579
+2000,Alaska,100,"      Forestry, fishing, and related activities",10058
+2000,Alaska,200,"      Mining, quarrying, and oil and gas extraction",16586
+2000,Alaska,300,      Utilities,2312
+2000,Alaska,400,      Construction,23613
+2000,Alaska,500,      Manufacturing,15628
+2000,Alaska,600,      Wholesale trade,7198
+2000,Alaska,700,      Retail trade,45302
+2000,Alaska,800,      Transportation and warehousing,26952
+2000,Alaska,900,      Information,6828
+2000,Alaska,1000,      Finance and insurance,11342
+2000,Alaska,1100,      Real estate and rental and leasing,17770
+2000,Alaska,1200,"      Professional, scientific, and technical services",23287
+2000,Alaska,1300,      Management of companies and enterprises,3486
+2000,Alaska,1400,      Administrative and support and waste management and remediation services,16994
+2000,Alaska,1500,      Educational services,6132
+2000,Alaska,1600,      Health care and social assistance,53035
+2000,Alaska,1700,"      Arts, entertainment, and recreation",11242
+2000,Alaska,1800,      Accommodation and food services,36131
+2000,Alaska,1900,      Other services (except government and government enterprises),20836
+2000,Alaska,2000,    Government and government enterprises,102867
+4000,Arizona,70,  Farm employment,31132
+4000,Arizona,100,"      Forestry, fishing, and related activities",16224
+4000,Arizona,200,"      Mining, quarrying, and oil and gas extraction",22490
+4000,Arizona,300,      Utilities,12754
+4000,Arizona,400,      Construction,217751
+4000,Arizona,500,      Manufacturing,185529
+4000,Arizona,600,      Wholesale trade,107855
+4000,Arizona,700,      Retail trade,397476
+4000,Arizona,800,      Transportation and warehousing,180510
+4000,Arizona,900,      Information,60266
+4000,Arizona,1000,      Finance and insurance,250251
+4000,Arizona,1100,      Real estate and rental and leasing,222657
+4000,Arizona,1200,"      Professional, scientific, and technical services",249512
+4000,Arizona,1300,      Management of companies and enterprises,37047
+4000,Arizona,1400,      Administrative and support and waste management and remediation services,313964
+4000,Arizona,1500,      Educational services,80180
+4000,Arizona,1600,      Health care and social assistance,431457
+4000,Arizona,1700,"      Arts, entertainment, and recreation",86860
+4000,Arizona,1800,      Accommodation and food services,304499
+4000,Arizona,1900,      Other services (except government and government enterprises),198364
+4000,Arizona,2000,    Government and government enterprises,452359
+5000,Arkansas,70,  Farm employment,52607
+5000,Arkansas,100,"      Forestry, fishing, and related activities",14747
+5000,Arkansas,200,"      Mining, quarrying, and oil and gas extraction",13034
+5000,Arkansas,300,      Utilities,8065
+5000,Arkansas,400,      Construction,90902
+5000,Arkansas,500,      Manufacturing,167076
+5000,Arkansas,600,      Wholesale trade,50605
+5000,Arkansas,700,      Retail trade,171749
+5000,Arkansas,800,      Transportation and warehousing,78413
+5000,Arkansas,900,      Information,14607
+5000,Arkansas,1000,      Finance and insurance,61972
+5000,Arkansas,1100,      Real estate and rental and leasing,61662
+5000,Arkansas,1200,"      Professional, scientific, and technical services",68848
+5000,Arkansas,1300,      Management of companies and enterprises,36448
+5000,Arkansas,1400,      Administrative and support and waste management and remediation services,95987
+5000,Arkansas,1500,      Educational services,23358
+5000,Arkansas,1600,      Health care and social assistance,195918
+5000,Arkansas,1700,"      Arts, entertainment, and recreation",22769
+5000,Arkansas,1800,      Accommodation and food services,116486
+5000,Arkansas,1900,      Other services (except government and government enterprises),91264
+5000,Arkansas,2000,    Government and government enterprises,226671
+6000,California,70,  Farm employment,236500
+6000,California,100,"      Forestry, fishing, and related activities",258427
+6000,California,200,"      Mining, quarrying, and oil and gas extraction",48883
+6000,California,300,      Utilities,59976
+6000,California,400,      Construction,1205915
+6000,California,500,      Manufacturing,1434262
+6000,California,600,      Wholesale trade,797873
+6000,California,700,      Retail trade,2090818
+6000,California,800,      Transportation and warehousing,1262299
+6000,California,900,      Information,626200
+6000,California,1000,      Finance and insurance,1068051
+6000,California,1100,      Real estate and rental and leasing,1222367
+6000,California,1200,"      Professional, scientific, and technical services",2066023
+6000,California,1300,      Management of companies and enterprises,281523
+6000,California,1400,      Administrative and support and waste management and remediation services,1540370
+6000,California,1500,      Educational services,544368
+6000,California,1600,      Health care and social assistance,2720560
+6000,California,1700,"      Arts, entertainment, and recreation",679974
+6000,California,1800,      Accommodation and food services,1838127
+6000,California,1900,      Other services (except government and government enterprises),1431417
+6000,California,2000,    Government and government enterprises,2804262
+8000,Colorado,70,  Farm employment,48316
+8000,Colorado,100,"      Forestry, fishing, and related activities",14266
+8000,Colorado,200,"      Mining, quarrying, and oil and gas extraction",57758
+8000,Colorado,300,      Utilities,8795
+8000,Colorado,400,      Construction,262525
+8000,Colorado,500,      Manufacturing,167168
+8000,Colorado,600,      Wholesale trade,116552
+8000,Colorado,700,      Retail trade,342742
+8000,Colorado,800,      Transportation and warehousing,155931
+8000,Colorado,900,      Information,89905
+8000,Colorado,1000,      Finance and insurance,218096
+8000,Colorado,1100,      Real estate and rental and leasing,227735
+8000,Colorado,1200,"      Professional, scientific, and technical services",351522
+8000,Colorado,1300,      Management of companies and enterprises,47882
+8000,Colorado,1400,      Administrative and support and waste management and remediation services,213071
+8000,Colorado,1500,      Educational services,77669
+8000,Colorado,1600,      Health care and social assistance,348888
+8000,Colorado,1700,"      Arts, entertainment, and recreation",110504
+8000,Colorado,1800,      Accommodation and food services,305673
+8000,Colorado,1900,      Other services (except government and government enterprises),199094
+8000,Colorado,2000,    Government and government enterprises,500062
+9000,Connecticut,70,  Farm employment,9511
+9000,Connecticut,100,"      Forestry, fishing, and related activities",2371
+9000,Connecticut,200,"      Mining, quarrying, and oil and gas extraction",2722
+9000,Connecticut,300,      Utilities,5717
+9000,Connecticut,400,      Construction,115467
+9000,Connecticut,500,      Manufacturing,170445
+9000,Connecticut,600,      Wholesale trade,68667
+9000,Connecticut,700,      Retail trade,218725
+9000,Connecticut,800,      Transportation and warehousing,81108
+9000,Connecticut,900,      Information,39458
+9000,Connecticut,1000,      Finance and insurance,191822
+9000,Connecticut,1100,      Real estate and rental and leasing,123339
+9000,Connecticut,1200,"      Professional, scientific, and technical services",164474
+9000,Connecticut,1300,      Management of companies and enterprises,37754
+9000,Connecticut,1400,      Administrative and support and waste management and remediation services,123997
+9000,Connecticut,1500,      Educational services,88055
+9000,Connecticut,1600,      Health care and social assistance,308223
+9000,Connecticut,1700,"      Arts, entertainment, and recreation",57403
+9000,Connecticut,1800,      Accommodation and food services,144773
+9000,Connecticut,1900,      Other services (except government and government enterprises),120732
+9000,Connecticut,2000,    Government and government enterprises,252591
+10000,Delaware,70,  Farm employment,3408
+10000,Delaware,100,"      Forestry, fishing, and related activities",(D)
+10000,Delaware,200,"      Mining, quarrying, and oil and gas extraction",(D)
+10000,Delaware,300,      Utilities,2210
+10000,Delaware,400,      Construction,32383
+10000,Delaware,500,      Manufacturing,28714
+10000,Delaware,600,      Wholesale trade,12147
+10000,Delaware,700,      Retail trade,62791
+10000,Delaware,800,      Transportation and warehousing,22712
+10000,Delaware,900,      Information,5899
+10000,Delaware,1000,      Finance and insurance,60177
+10000,Delaware,1100,      Real estate and rental and leasing,29988
+10000,Delaware,1200,"      Professional, scientific, and technical services",38866
+10000,Delaware,1300,      Management of companies and enterprises,9726
+10000,Delaware,1400,      Administrative and support and waste management and remediation services,36044
+10000,Delaware,1500,      Educational services,9896
+10000,Delaware,1600,      Health care and social assistance,77376
+10000,Delaware,1700,"      Arts, entertainment, and recreation",15013
+10000,Delaware,1800,      Accommodation and food services,45614
+10000,Delaware,1900,      Other services (except government and government enterprises),27198
+10000,Delaware,2000,    Government and government enterprises,73775
+11000,District of Columbia,70,  Farm employment,0
+11000,District of Columbia,100,"      Forestry, fishing, and related activities",89
+11000,District of Columbia,200,"      Mining, quarrying, and oil and gas extraction",361
+11000,District of Columbia,300,      Utilities,2171
+11000,District of Columbia,400,      Construction,18715
+11000,District of Columbia,500,      Manufacturing,2154
+11000,District of Columbia,600,      Wholesale trade,5441
+11000,District of Columbia,700,      Retail trade,26567
+11000,District of Columbia,800,      Transportation and warehousing,17462
+11000,District of Columbia,900,      Information,21901
+11000,District of Columbia,1000,      Finance and insurance,26224
+11000,District of Columbia,1100,      Real estate and rental and leasing,31061
+11000,District of Columbia,1200,"      Professional, scientific, and technical services",144789
+11000,District of Columbia,1300,      Management of companies and enterprises,3300
+11000,District of Columbia,1400,      Administrative and support and waste management and remediation services,51918
+11000,District of Columbia,1500,      Educational services,61651
+11000,District of Columbia,1600,      Health care and social assistance,75865
+11000,District of Columbia,1700,"      Arts, entertainment, and recreation",18375
+11000,District of Columbia,1800,      Accommodation and food services,74359
+11000,District of Columbia,1900,      Other services (except government and government enterprises),84903
+11000,District of Columbia,2000,    Government and government enterprises,248331
+12000,Florida,70,  Farm employment,77634
+12000,Florida,100,"      Forestry, fishing, and related activities",62480
+12000,Florida,200,"      Mining, quarrying, and oil and gas extraction",23036
+12000,Florida,300,      Utilities,25656
+12000,Florida,400,      Construction,758145
+12000,Florida,500,      Manufacturing,419793
+12000,Florida,600,      Wholesale trade,386091
+12000,Florida,700,      Retail trade,1331337
+12000,Florida,800,      Transportation and warehousing,605849
+12000,Florida,900,      Information,184421
+12000,Florida,1000,      Finance and insurance,727122
+12000,Florida,1100,      Real estate and rental and leasing,797872
+12000,Florida,1200,"      Professional, scientific, and technical services",884191
+12000,Florida,1300,      Management of companies and enterprises,140594
+12000,Florida,1400,      Administrative and support and waste management and remediation services,1001945
+12000,Florida,1500,      Educational services,234348
+12000,Florida,1600,      Health care and social assistance,1347765
+12000,Florida,1700,"      Arts, entertainment, and recreation",369033
+12000,Florida,1800,      Accommodation and food services,1076302
+12000,Florida,1900,      Other services (except government and government enterprises),810844
+12000,Florida,2000,    Government and government enterprises,1197750
+13000,Georgia,70,  Farm employment,51482
+13000,Georgia,100,"      Forestry, fishing, and related activities",25931
+13000,Georgia,200,"      Mining, quarrying, and oil and gas extraction",9758
+13000,Georgia,300,      Utilities,20235
+13000,Georgia,400,      Construction,339089
+13000,Georgia,500,      Manufacturing,433629
+13000,Georgia,600,      Wholesale trade,237132
+13000,Georgia,700,      Retail trade,606737
+13000,Georgia,800,      Transportation and warehousing,353473
+13000,Georgia,900,      Information,138562
+13000,Georgia,1000,      Finance and insurance,294145
+13000,Georgia,1100,      Real estate and rental and leasing,279046
+13000,Georgia,1200,"      Professional, scientific, and technical services",427139
+13000,Georgia,1300,      Management of companies and enterprises,81247
+13000,Georgia,1400,      Administrative and support and waste management and remediation services,504556
+13000,Georgia,1500,      Educational services,128227
+13000,Georgia,1600,      Health care and social assistance,577451
+13000,Georgia,1700,"      Arts, entertainment, and recreation",124110
+13000,Georgia,1800,      Accommodation and food services,480540
+13000,Georgia,1900,      Other services (except government and government enterprises),381986
+13000,Georgia,2000,    Government and government enterprises,779975
+15000,Hawaii,70,  Farm employment,12505
+15000,Hawaii,100,"      Forestry, fishing, and related activities",3978
+15000,Hawaii,200,"      Mining, quarrying, and oil and gas extraction",761
+15000,Hawaii,300,      Utilities,4166
+15000,Hawaii,400,      Construction,48714
+15000,Hawaii,500,      Manufacturing,18903
+15000,Hawaii,600,      Wholesale trade,21248
+15000,Hawaii,700,      Retail trade,91256
+15000,Hawaii,800,      Transportation and warehousing,43632
+15000,Hawaii,900,      Information,11174
+15000,Hawaii,1000,      Finance and insurance,29807
+15000,Hawaii,1100,      Real estate and rental and leasing,45211
+15000,Hawaii,1200,"      Professional, scientific, and technical services",47023
+15000,Hawaii,1300,      Management of companies and enterprises,9633
+15000,Hawaii,1400,      Administrative and support and waste management and remediation services,64124
+15000,Hawaii,1500,      Educational services,20799
+15000,Hawaii,1600,      Health care and social assistance,83882
+15000,Hawaii,1700,"      Arts, entertainment, and recreation",24436
+15000,Hawaii,1800,      Accommodation and food services,118038
+15000,Hawaii,1900,      Other services (except government and government enterprises),50165
+15000,Hawaii,2000,    Government and government enterprises,181698
+16000,Idaho,70,  Farm employment,41266
+16000,Idaho,100,"      Forestry, fishing, and related activities",13679
+16000,Idaho,200,"      Mining, quarrying, and oil and gas extraction",5020
+16000,Idaho,300,      Utilities,3237
+16000,Idaho,400,      Construction,72421
+16000,Idaho,500,      Manufacturing,75384
+16000,Idaho,600,      Wholesale trade,31413
+16000,Idaho,700,      Retail trade,112693
+16000,Idaho,800,      Transportation and warehousing,35854
+16000,Idaho,900,      Information,12152
+16000,Idaho,1000,      Finance and insurance,42645
+16000,Idaho,1100,      Real estate and rental and leasing,53670
+16000,Idaho,1200,"      Professional, scientific, and technical services",62003
+16000,Idaho,1300,      Management of companies and enterprises,8092
+16000,Idaho,1400,      Administrative and support and waste management and remediation services,61620
+16000,Idaho,1500,      Educational services,18736
+16000,Idaho,1600,      Health care and social assistance,107284
+16000,Idaho,1700,"      Arts, entertainment, and recreation",23083
+16000,Idaho,1800,      Accommodation and food services,73376
+16000,Idaho,1900,      Other services (except government and government enterprises),49687
+16000,Idaho,2000,    Government and government enterprises,135420
+17000,Illinois,70,  Farm employment,74212
+17000,Illinois,100,"      Forestry, fishing, and related activities",13679
+17000,Illinois,200,"      Mining, quarrying, and oil and gas extraction",22876
+17000,Illinois,300,      Utilities,25567
+17000,Illinois,400,      Construction,343299
+17000,Illinois,500,      Manufacturing,608272
+17000,Illinois,600,      Wholesale trade,320264
+17000,Illinois,700,      Retail trade,710934
+17000,Illinois,800,      Transportation and warehousing,492507
+17000,Illinois,900,      Information,115084
+17000,Illinois,1000,      Finance and insurance,498235
+17000,Illinois,1100,      Real estate and rental and leasing,321644
+17000,Illinois,1200,"      Professional, scientific, and technical services",586203
+17000,Illinois,1300,      Management of companies and enterprises,102565
+17000,Illinois,1400,      Administrative and support and waste management and remediation services,549239
+17000,Illinois,1500,      Educational services,215498
+17000,Illinois,1600,      Health care and social assistance,888849
+17000,Illinois,1700,"      Arts, entertainment, and recreation",175314
+17000,Illinois,1800,      Accommodation and food services,560504
+17000,Illinois,1900,      Other services (except government and government enterprises),457656
+17000,Illinois,2000,    Government and government enterprises,869969
+18000,Indiana,70,  Farm employment,63915
+18000,Indiana,100,"      Forestry, fishing, and related activities",10841
+18000,Indiana,200,"      Mining, quarrying, and oil and gas extraction",11372
+18000,Indiana,300,      Utilities,14373
+18000,Indiana,400,      Construction,210513
+18000,Indiana,500,      Manufacturing,558603
+18000,Indiana,600,      Wholesale trade,126838
+18000,Indiana,700,      Retail trade,392564
+18000,Indiana,800,      Transportation and warehousing,200575
+18000,Indiana,900,      Information,38704
+18000,Indiana,1000,      Finance and insurance,153708
+18000,Indiana,1100,      Real estate and rental and leasing,149086
+18000,Indiana,1200,"      Professional, scientific, and technical services",184446
+18000,Indiana,1300,      Management of companies and enterprises,38102
+18000,Indiana,1400,      Administrative and support and waste management and remediation services,240637
+18000,Indiana,1500,      Educational services,88477
+18000,Indiana,1600,      Health care and social assistance,450661
+18000,Indiana,1700,"      Arts, entertainment, and recreation",76538
+18000,Indiana,1800,      Accommodation and food services,284095
+18000,Indiana,1900,      Other services (except government and government enterprises),226133
+18000,Indiana,2000,    Government and government enterprises,447223
+19000,Iowa,70,  Farm employment,87227
+19000,Iowa,100,"      Forestry, fishing, and related activities",17149
+19000,Iowa,200,"      Mining, quarrying, and oil and gas extraction",4371
+19000,Iowa,300,      Utilities,6725
+19000,Iowa,400,      Construction,118139
+19000,Iowa,500,      Manufacturing,230349
+19000,Iowa,600,      Wholesale trade,70573
+19000,Iowa,700,      Retail trade,221460
+19000,Iowa,800,      Transportation and warehousing,87513
+19000,Iowa,900,      Information,27080
+19000,Iowa,1000,      Finance and insurance,134642
+19000,Iowa,1100,      Real estate and rental and leasing,74858
+19000,Iowa,1200,"      Professional, scientific, and technical services",82840
+19000,Iowa,1300,      Management of companies and enterprises,21327
+19000,Iowa,1400,      Administrative and support and waste management and remediation services,88256
+19000,Iowa,1500,      Educational services,48215
+19000,Iowa,1600,      Health care and social assistance,219643
+19000,Iowa,1700,"      Arts, entertainment, and recreation",37625
+19000,Iowa,1800,      Accommodation and food services,133164
+19000,Iowa,1900,      Other services (except government and government enterprises),105215
+19000,Iowa,2000,    Government and government enterprises,271622
+20000,Kansas,70,  Farm employment,63499
+20000,Kansas,100,"      Forestry, fishing, and related activities",11574
+20000,Kansas,200,"      Mining, quarrying, and oil and gas extraction",40066
+20000,Kansas,300,      Utilities,6622
+20000,Kansas,400,      Construction,94068
+20000,Kansas,500,      Manufacturing,172666
+20000,Kansas,600,      Wholesale trade,64250
+20000,Kansas,700,      Retail trade,185093
+20000,Kansas,800,      Transportation and warehousing,80331
+20000,Kansas,900,      Information,23669
+20000,Kansas,1000,      Finance and insurance,101139
+20000,Kansas,1100,      Real estate and rental and leasing,72790
+20000,Kansas,1200,"      Professional, scientific, and technical services",110326
+20000,Kansas,1300,      Management of companies and enterprises,28447
+20000,Kansas,1400,      Administrative and support and waste management and remediation services,102697
+20000,Kansas,1500,      Educational services,28687
+20000,Kansas,1600,      Health care and social assistance,204522
+20000,Kansas,1700,"      Arts, entertainment, and recreation",34295
+20000,Kansas,1800,      Accommodation and food services,122331
+20000,Kansas,1900,      Other services (except government and government enterprises),97540
+20000,Kansas,2000,    Government and government enterprises,296388
+21000,Kentucky,70,  Farm employment,83011
+21000,Kentucky,100,"      Forestry, fishing, and related activities",13611
+21000,Kentucky,200,"      Mining, quarrying, and oil and gas extraction",18112
+21000,Kentucky,300,      Utilities,7187
+21000,Kentucky,400,      Construction,130350
+21000,Kentucky,500,      Manufacturing,260659
+21000,Kentucky,600,      Wholesale trade,80641
+21000,Kentucky,700,      Retail trade,261072
+21000,Kentucky,800,      Transportation and warehousing,140145
+21000,Kentucky,900,      Information,27811
+21000,Kentucky,1000,      Finance and insurance,107471
+21000,Kentucky,1100,      Real estate and rental and leasing,92673
+21000,Kentucky,1200,"      Professional, scientific, and technical services",117017
+21000,Kentucky,1300,      Management of companies and enterprises,24220
+21000,Kentucky,1400,      Administrative and support and waste management and remediation services,156354
+21000,Kentucky,1500,      Educational services,41546
+21000,Kentucky,1600,      Health care and social assistance,275379
+21000,Kentucky,1700,"      Arts, entertainment, and recreation",43118
+21000,Kentucky,1800,      Accommodation and food services,186486
+21000,Kentucky,1900,      Other services (except government and government enterprises),132520
+21000,Kentucky,2000,    Government and government enterprises,350592
+22000,Louisiana,70,  Farm employment,32315
+22000,Louisiana,100,"      Forestry, fishing, and related activities",18502
+22000,Louisiana,200,"      Mining, quarrying, and oil and gas extraction",62571
+22000,Louisiana,300,      Utilities,9087
+22000,Louisiana,400,      Construction,212255
+22000,Louisiana,500,      Manufacturing,146399
+22000,Louisiana,600,      Wholesale trade,75408
+22000,Louisiana,700,      Retail trade,275971
+22000,Louisiana,800,      Transportation and warehousing,123547
+22000,Louisiana,900,      Information,29944
+22000,Louisiana,1000,      Finance and insurance,107202
+22000,Louisiana,1100,      Real estate and rental and leasing,124685
+22000,Louisiana,1200,"      Professional, scientific, and technical services",145676
+22000,Louisiana,1300,      Management of companies and enterprises,27805
+22000,Louisiana,1400,      Administrative and support and waste management and remediation services,160644
+22000,Louisiana,1500,      Educational services,56824
+22000,Louisiana,1600,      Health care and social assistance,317795
+22000,Louisiana,1700,"      Arts, entertainment, and recreation",55035
+22000,Louisiana,1800,      Accommodation and food services,229864
+22000,Louisiana,1900,      Other services (except government and government enterprises),165747
+22000,Louisiana,2000,    Government and government enterprises,355963
+23000,Maine,70,  Farm employment,10536
+23000,Maine,100,"      Forestry, fishing, and related activities",14469
+23000,Maine,200,"      Mining, quarrying, and oil and gas extraction",1200
+23000,Maine,300,      Utilities,1794
+23000,Maine,400,      Construction,56448
+23000,Maine,500,      Manufacturing,57660
+23000,Maine,600,      Wholesale trade,21723
+23000,Maine,700,      Retail trade,99670
+23000,Maine,800,      Transportation and warehousing,25208
+23000,Maine,900,      Information,10009
+23000,Maine,1000,      Finance and insurance,33480
+23000,Maine,1100,      Real estate and rental and leasing,35786
+23000,Maine,1200,"      Professional, scientific, and technical services",47428
+23000,Maine,1300,      Management of companies and enterprises,11847
+23000,Maine,1400,      Administrative and support and waste management and remediation services,43935
+23000,Maine,1500,      Educational services,22113
+23000,Maine,1600,      Health care and social assistance,117616
+23000,Maine,1700,"      Arts, entertainment, and recreation",22205
+23000,Maine,1800,      Accommodation and food services,65835
+23000,Maine,1900,      Other services (except government and government enterprises),41913
+23000,Maine,2000,    Government and government enterprises,107584
+24000,Maryland,70,  Farm employment,17977
+24000,Maryland,100,"      Forestry, fishing, and related activities",6712
+24000,Maryland,200,"      Mining, quarrying, and oil and gas extraction",3889
+24000,Maryland,300,      Utilities,10628
+24000,Maryland,400,      Construction,238524
+24000,Maryland,500,      Manufacturing,120784
+24000,Maryland,600,      Wholesale trade,94418
+24000,Maryland,700,      Retail trade,343025
+24000,Maryland,800,      Transportation and warehousing,181074
+24000,Maryland,900,      Information,50843
+24000,Maryland,1000,      Finance and insurance,165752
+24000,Maryland,1100,      Real estate and rental and leasing,191129
+24000,Maryland,1200,"      Professional, scientific, and technical services",365956
+24000,Maryland,1300,      Management of companies and enterprises,31255
+24000,Maryland,1400,      Administrative and support and waste management and remediation services,240393
+24000,Maryland,1500,      Educational services,109840
+24000,Maryland,1600,      Health care and social assistance,449042
+24000,Maryland,1700,"      Arts, entertainment, and recreation",95861
+24000,Maryland,1800,      Accommodation and food services,257449
+24000,Maryland,1900,      Other services (except government and government enterprises),216720
+24000,Maryland,2000,    Government and government enterprises,570851
+25000,Massachusetts,70,  Farm employment,10368
+25000,Massachusetts,100,"      Forestry, fishing, and related activities",10231
+25000,Massachusetts,200,"      Mining, quarrying, and oil and gas extraction",3219
+25000,Massachusetts,300,      Utilities,12363
+25000,Massachusetts,400,      Construction,259699
+25000,Massachusetts,500,      Manufacturing,260513
+25000,Massachusetts,600,      Wholesale trade,137829
+25000,Massachusetts,700,      Retail trade,428369
+25000,Massachusetts,800,      Transportation and warehousing,199875
+25000,Massachusetts,900,      Information,107889
+25000,Massachusetts,1000,      Finance and insurance,283690
+25000,Massachusetts,1100,      Real estate and rental and leasing,214159
+25000,Massachusetts,1200,"      Professional, scientific, and technical services",487312
+25000,Massachusetts,1300,      Management of companies and enterprises,77347
+25000,Massachusetts,1400,      Administrative and support and waste management and remediation services,252126
+25000,Massachusetts,1500,      Educational services,251175
+25000,Massachusetts,1600,      Health care and social assistance,699211
+25000,Massachusetts,1700,"      Arts, entertainment, and recreation",132420
+25000,Massachusetts,1800,      Accommodation and food services,335983
+25000,Massachusetts,1900,      Other services (except government and government enterprises),244565
+25000,Massachusetts,2000,    Government and government enterprises,464508
+26000,Michigan,70,  Farm employment,63670
+26000,Michigan,100,"      Forestry, fishing, and related activities",17357
+26000,Michigan,200,"      Mining, quarrying, and oil and gas extraction",16456
+26000,Michigan,300,      Utilities,20869
+26000,Michigan,400,      Construction,276439
+26000,Michigan,500,      Manufacturing,657448
+26000,Michigan,600,      Wholesale trade,187039
+26000,Michigan,700,      Retail trade,568780
+26000,Michigan,800,      Transportation and warehousing,205251
+26000,Michigan,900,      Information,72040
+26000,Michigan,1000,      Finance and insurance,251674
+26000,Michigan,1100,      Real estate and rental and leasing,260936
+26000,Michigan,1200,"      Professional, scientific, and technical services",418058
+26000,Michigan,1300,      Management of companies and enterprises,75352
+26000,Michigan,1400,      Administrative and support and waste management and remediation services,381267
+26000,Michigan,1500,      Educational services,107722
+26000,Michigan,1600,      Health care and social assistance,685678
+26000,Michigan,1700,"      Arts, entertainment, and recreation",112537
+26000,Michigan,1800,      Accommodation and food services,410769
+26000,Michigan,1900,      Other services (except government and government enterprises),324574
+26000,Michigan,2000,    Government and government enterprises,614686
+27000,Minnesota,70,  Farm employment,74572
+27000,Minnesota,100,"      Forestry, fishing, and related activities",14711
+27000,Minnesota,200,"      Mining, quarrying, and oil and gas extraction",10232
+27000,Minnesota,300,      Utilities,12828
+27000,Minnesota,400,      Construction,182269
+27000,Minnesota,500,      Manufacturing,339257
+27000,Minnesota,600,      Wholesale trade,140532
+27000,Minnesota,700,      Retail trade,365550
+27000,Minnesota,800,      Transportation and warehousing,155950
+27000,Minnesota,900,      Information,58725
+27000,Minnesota,1000,      Finance and insurance,219070
+27000,Minnesota,1100,      Real estate and rental and leasing,151165
+27000,Minnesota,1200,"      Professional, scientific, and technical services",243471
+27000,Minnesota,1300,      Management of companies and enterprises,85181
+27000,Minnesota,1400,      Administrative and support and waste management and remediation services,172042
+27000,Minnesota,1500,      Educational services,94444
+27000,Minnesota,1600,      Health care and social assistance,512788
+27000,Minnesota,1700,"      Arts, entertainment, and recreation",94943
+27000,Minnesota,1800,      Accommodation and food services,242635
+27000,Minnesota,1900,      Other services (except government and government enterprises),196204
+27000,Minnesota,2000,    Government and government enterprises,429193
+28000,Mississippi,70,  Farm employment,39129
+28000,Mississippi,100,"      Forestry, fishing, and related activities",15087
+28000,Mississippi,200,"      Mining, quarrying, and oil and gas extraction",12634
+28000,Mississippi,300,      Utilities,8246
+28000,Mississippi,400,      Construction,84710
+28000,Mississippi,500,      Manufacturing,151217
+28000,Mississippi,600,      Wholesale trade,38680
+28000,Mississippi,700,      Retail trade,171251
+28000,Mississippi,800,      Transportation and warehousing,71856
+28000,Mississippi,900,      Information,14617
+28000,Mississippi,1000,      Finance and insurance,57202
+28000,Mississippi,1100,      Real estate and rental and leasing,54439
+28000,Mississippi,1200,"      Professional, scientific, and technical services",58101
+28000,Mississippi,1300,      Management of companies and enterprises,13446
+28000,Mississippi,1400,      Administrative and support and waste management and remediation services,104230
+28000,Mississippi,1500,      Educational services,25932
+28000,Mississippi,1600,      Health care and social assistance,161292
+28000,Mississippi,1700,"      Arts, entertainment, and recreation",20480
+28000,Mississippi,1800,      Accommodation and food services,137726
+28000,Mississippi,1900,      Other services (except government and government enterprises),94829
+28000,Mississippi,2000,    Government and government enterprises,270723
+29000,Missouri,70,  Farm employment,93918
+29000,Missouri,100,"      Forestry, fishing, and related activities",14418
+29000,Missouri,200,"      Mining, quarrying, and oil and gas extraction",8762
+29000,Missouri,300,      Utilities,12236
+29000,Missouri,400,      Construction,196223
+29000,Missouri,500,      Manufacturing,288323
+29000,Missouri,600,      Wholesale trade,129406
+29000,Missouri,700,      Retail trade,383835
+29000,Missouri,800,      Transportation and warehousing,152786
+29000,Missouri,900,      Information,57370
+29000,Missouri,1000,      Finance and insurance,195440
+29000,Missouri,1100,      Real estate and rental and leasing,164140
+29000,Missouri,1200,"      Professional, scientific, and technical services",229509
+29000,Missouri,1300,      Management of companies and enterprises,69414
+29000,Missouri,1400,      Administrative and support and waste management and remediation services,208670
+29000,Missouri,1500,      Educational services,85272
+29000,Missouri,1600,      Health care and social assistance,454955
+29000,Missouri,1700,"      Arts, entertainment, and recreation",76382
+29000,Missouri,1800,      Accommodation and food services,282842
+29000,Missouri,1900,      Other services (except government and government enterprises),206545
+29000,Missouri,2000,    Government and government enterprises,469390
+30000,Montana,70,  Farm employment,29527
+30000,Montana,100,"      Forestry, fishing, and related activities",8336
+30000,Montana,200,"      Mining, quarrying, and oil and gas extraction",12081
+30000,Montana,300,      Utilities,2958
+30000,Montana,400,      Construction,48905
+30000,Montana,500,      Manufacturing,25557
+30000,Montana,600,      Wholesale trade,18913
+30000,Montana,700,      Retail trade,75647
+30000,Montana,800,      Transportation and warehousing,23174
+30000,Montana,900,      Information,8570
+30000,Montana,1000,      Finance and insurance,25688
+30000,Montana,1100,      Real estate and rental and leasing,38888
+30000,Montana,1200,"      Professional, scientific, and technical services",39260
+30000,Montana,1300,      Management of companies and enterprises,2642
+30000,Montana,1400,      Administrative and support and waste management and remediation services,26398
+30000,Montana,1500,      Educational services,8769
+30000,Montana,1600,      Health care and social assistance,77273
+30000,Montana,1700,"      Arts, entertainment, and recreation",21488
+30000,Montana,1800,      Accommodation and food services,60151
+30000,Montana,1900,      Other services (except government and government enterprises),35606
+30000,Montana,2000,    Government and government enterprises,95285
+31000,Nebraska,70,  Farm employment,55247
+31000,Nebraska,100,"      Forestry, fishing, and related activities",11872
+31000,Nebraska,200,"      Mining, quarrying, and oil and gas extraction",3149
+31000,Nebraska,300,      Utilities,1256
+31000,Nebraska,400,      Construction,76865
+31000,Nebraska,500,      Manufacturing,103795
+31000,Nebraska,600,      Wholesale trade,43322
+31000,Nebraska,700,      Retail trade,134883
+31000,Nebraska,800,      Transportation and warehousing,69889
+31000,Nebraska,900,      Information,20402
+31000,Nebraska,1000,      Finance and insurance,83930
+31000,Nebraska,1100,      Real estate and rental and leasing,51137
+31000,Nebraska,1200,"      Professional, scientific, and technical services",65507
+31000,Nebraska,1300,      Management of companies and enterprises,22732
+31000,Nebraska,1400,      Administrative and support and waste management and remediation services,66658
+31000,Nebraska,1500,      Educational services,24139
+31000,Nebraska,1600,      Health care and social assistance,145999
+31000,Nebraska,1700,"      Arts, entertainment, and recreation",26184
+31000,Nebraska,1800,      Accommodation and food services,84209
+31000,Nebraska,1900,      Other services (except government and government enterprises),68722
+31000,Nebraska,2000,    Government and government enterprises,175343
+32000,Nevada,70,  Farm employment,5093
+32000,Nevada,100,"      Forestry, fishing, and related activities",1948
+32000,Nevada,200,"      Mining, quarrying, and oil and gas extraction",19810
+32000,Nevada,300,      Utilities,4391
+32000,Nevada,400,      Construction,107829
+32000,Nevada,500,      Manufacturing,61881
+32000,Nevada,600,      Wholesale trade,40854
+32000,Nevada,700,      Retail trade,180682
+32000,Nevada,800,      Transportation and warehousing,117807
+32000,Nevada,900,      Information,21841
+32000,Nevada,1000,      Finance and insurance,87208
+32000,Nevada,1100,      Real estate and rental and leasing,107764
+32000,Nevada,1200,"      Professional, scientific, and technical services",102072
+32000,Nevada,1300,      Management of companies and enterprises,32723
+32000,Nevada,1400,      Administrative and support and waste management and remediation services,133029
+32000,Nevada,1500,      Educational services,18034
+32000,Nevada,1600,      Health care and social assistance,147706
+32000,Nevada,1700,"      Arts, entertainment, and recreation",58853
+32000,Nevada,1800,      Accommodation and food services,331566
+32000,Nevada,1900,      Other services (except government and government enterprises),88069
+32000,Nevada,2000,    Government and government enterprises,174655
+33000,New Hampshire,70,  Farm employment,5162
+33000,New Hampshire,100,"      Forestry, fishing, and related activities",3028
+33000,New Hampshire,200,"      Mining, quarrying, and oil and gas extraction",1504
+33000,New Hampshire,300,      Utilities,2256
+33000,New Hampshire,400,      Construction,54706
+33000,New Hampshire,500,      Manufacturing,76136
+33000,New Hampshire,600,      Wholesale trade,30639
+33000,New Hampshire,700,      Retail trade,112470
+33000,New Hampshire,800,      Transportation and warehousing,23141
+33000,New Hampshire,900,      Information,15412
+33000,New Hampshire,1000,      Finance and insurance,42283
+33000,New Hampshire,1100,      Real estate and rental and leasing,41464
+33000,New Hampshire,1200,"      Professional, scientific, and technical services",64549
+33000,New Hampshire,1300,      Management of companies and enterprises,9978
+33000,New Hampshire,1400,      Administrative and support and waste management and remediation services,48647
+33000,New Hampshire,1500,      Educational services,31632
+33000,New Hampshire,1600,      Health care and social assistance,103185
+33000,New Hampshire,1700,"      Arts, entertainment, and recreation",24182
+33000,New Hampshire,1800,      Accommodation and food services,65694
+33000,New Hampshire,1900,      Other services (except government and government enterprises),44543
+33000,New Hampshire,2000,    Government and government enterprises,94332
+34000,New Jersey,70,  Farm employment,17657
+34000,New Jersey,100,"      Forestry, fishing, and related activities",6891
+34000,New Jersey,200,"      Mining, quarrying, and oil and gas extraction",3782
+34000,New Jersey,300,      Utilities,16569
+34000,New Jersey,400,      Construction,253582
+34000,New Jersey,500,      Manufacturing,264733
+34000,New Jersey,600,      Wholesale trade,236769
+34000,New Jersey,700,      Retail trade,544077
+34000,New Jersey,800,      Transportation and warehousing,331898
+34000,New Jersey,900,      Information,89954
+34000,New Jersey,1000,      Finance and insurance,344887
+34000,New Jersey,1100,      Real estate and rental and leasing,342604
+34000,New Jersey,1200,"      Professional, scientific, and technical services",465179
+34000,New Jersey,1300,      Management of companies and enterprises,93518
+34000,New Jersey,1400,      Administrative and support and waste management and remediation services,355131
+34000,New Jersey,1500,      Educational services,138272
+34000,New Jersey,1600,      Health care and social assistance,663895
+34000,New Jersey,1700,"      Arts, entertainment, and recreation",129478
+34000,New Jersey,1800,      Accommodation and food services,354492
+34000,New Jersey,1900,      Other services (except government and government enterprises),293719
+34000,New Jersey,2000,    Government and government enterprises,610539
+35000,New Mexico,70,  Farm employment,28687
+35000,New Mexico,100,"      Forestry, fishing, and related activities",6157
+35000,New Mexico,200,"      Mining, quarrying, and oil and gas extraction",34490
+35000,New Mexico,300,      Utilities,4576
+35000,New Mexico,400,      Construction,64328
+35000,New Mexico,500,      Manufacturing,33596
+35000,New Mexico,600,      Wholesale trade,24563
+35000,New Mexico,700,      Retail trade,111663
+35000,New Mexico,800,      Transportation and warehousing,32916
+35000,New Mexico,900,      Information,15297
+35000,New Mexico,1000,      Finance and insurance,36018
+35000,New Mexico,1100,      Real estate and rental and leasing,41842
+35000,New Mexico,1200,"      Professional, scientific, and technical services",81618
+35000,New Mexico,1300,      Management of companies and enterprises,6488
+35000,New Mexico,1400,      Administrative and support and waste management and remediation services,57515
+35000,New Mexico,1500,      Educational services,17004
+35000,New Mexico,1600,      Health care and social assistance,135667
+35000,New Mexico,1700,"      Arts, entertainment, and recreation",26008
+35000,New Mexico,1800,      Accommodation and food services,95173
+35000,New Mexico,1900,      Other services (except government and government enterprises),56309
+35000,New Mexico,2000,    Government and government enterprises,205659
+36000,New York,70,  Farm employment,52313
+36000,New York,100,"      Forestry, fishing, and related activities",15091
+36000,New York,200,"      Mining, quarrying, and oil and gas extraction",14099
+36000,New York,300,      Utilities,40515
+36000,New York,400,      Construction,564477
+36000,New York,500,      Manufacturing,480317
+36000,New York,600,      Wholesale trade,371518
+36000,New York,700,      Retail trade,1096412
+36000,New York,800,      Transportation and warehousing,554355
+36000,New York,900,      Information,324084
+36000,New York,1000,      Finance and insurance,920352
+36000,New York,1100,      Real estate and rental and leasing,716667
+36000,New York,1200,"      Professional, scientific, and technical services",1012722
+36000,New York,1300,      Management of companies and enterprises,168930
+36000,New York,1400,      Administrative and support and waste management and remediation services,652677
+36000,New York,1500,      Educational services,495418
+36000,New York,1600,      Health care and social assistance,1777602
+36000,New York,1700,"      Arts, entertainment, and recreation",383634
+36000,New York,1800,      Accommodation and food services,856039
+36000,New York,1900,      Other services (except government and government enterprises),698741
+36000,New York,2000,    Government and government enterprises,1496640
+37000,North Carolina,70,  Farm employment,61521
+37000,North Carolina,100,"      Forestry, fishing, and related activities",25856
+37000,North Carolina,200,"      Mining, quarrying, and oil and gas extraction",7800
+37000,North Carolina,300,      Utilities,15641
+37000,North Carolina,400,      Construction,357615
+37000,North Carolina,500,      Manufacturing,499183
+37000,North Carolina,600,      Wholesale trade,199796
+37000,North Carolina,700,      Retail trade,609931
+37000,North Carolina,800,      Transportation and warehousing,223809
+37000,North Carolina,900,      Information,97456
+37000,North Carolina,1000,      Finance and insurance,272839
+37000,North Carolina,1100,      Real estate and rental and leasing,271509
+37000,North Carolina,1200,"      Professional, scientific, and technical services",384051
+37000,North Carolina,1300,      Management of companies and enterprises,90220
+37000,North Carolina,1400,      Administrative and support and waste management and remediation services,414469
+37000,North Carolina,1500,      Educational services,143494
+37000,North Carolina,1600,      Health care and social assistance,582128
+37000,North Carolina,1700,"      Arts, entertainment, and recreation",137376
+37000,North Carolina,1800,      Accommodation and food services,462727
+37000,North Carolina,1900,      Other services (except government and government enterprises),335517
+37000,North Carolina,2000,    Government and government enterprises,862270
+38000,North Dakota,70,  Farm employment,28290
+38000,North Dakota,100,"      Forestry, fishing, and related activities",5246
+38000,North Dakota,200,"      Mining, quarrying, and oil and gas extraction",27073
+38000,North Dakota,300,      Utilities,3767
+38000,North Dakota,400,      Construction,35768
+38000,North Dakota,500,      Manufacturing,27781
+38000,North Dakota,600,      Wholesale trade,24887
+38000,North Dakota,700,      Retail trade,58648
+38000,North Dakota,800,      Transportation and warehousing,27194
+38000,North Dakota,900,      Information,7146
+38000,North Dakota,1000,      Finance and insurance,27175
+38000,North Dakota,1100,      Real estate and rental and leasing,25223
+38000,North Dakota,1200,"      Professional, scientific, and technical services",23103
+38000,North Dakota,1300,      Management of companies and enterprises,5750
+38000,North Dakota,1400,      Administrative and support and waste management and remediation services,18545
+38000,North Dakota,1500,      Educational services,6836
+38000,North Dakota,1600,      Health care and social assistance,66863
+38000,North Dakota,1700,"      Arts, entertainment, and recreation",9891
+38000,North Dakota,1800,      Accommodation and food services,37796
+38000,North Dakota,1900,      Other services (except government and government enterprises),26296
+38000,North Dakota,2000,    Government and government enterprises,88578
+39000,Ohio,70,  Farm employment,88321
+39000,Ohio,100,"      Forestry, fishing, and related activities",15671
+39000,Ohio,200,"      Mining, quarrying, and oil and gas extraction",29144
+39000,Ohio,300,      Utilities,20075
+39000,Ohio,400,      Construction,351527
+39000,Ohio,500,      Manufacturing,730959
+39000,Ohio,600,      Wholesale trade,252421
+39000,Ohio,700,      Retail trade,683889
+39000,Ohio,800,      Transportation and warehousing,316571
+39000,Ohio,900,      Information,88882
+39000,Ohio,1000,      Finance and insurance,351849
+39000,Ohio,1100,      Real estate and rental and leasing,284954
+39000,Ohio,1200,"      Professional, scientific, and technical services",400203
+39000,Ohio,1300,      Management of companies and enterprises,148981
+39000,Ohio,1400,      Administrative and support and waste management and remediation services,426736
+39000,Ohio,1500,      Educational services,153805
+39000,Ohio,1600,      Health care and social assistance,904765
+39000,Ohio,1700,"      Arts, entertainment, and recreation",148567
+39000,Ohio,1800,      Accommodation and food services,520686
+39000,Ohio,1900,      Other services (except government and government enterprises),370025
+39000,Ohio,2000,    Government and government enterprises,804949
+40000,Oklahoma,70,  Farm employment,76092
+40000,Oklahoma,100,"      Forestry, fishing, and related activities",10148
+40000,Oklahoma,200,"      Mining, quarrying, and oil and gas extraction",126436
+40000,Oklahoma,300,      Utilities,11082
+40000,Oklahoma,400,      Construction,133966
+40000,Oklahoma,500,      Manufacturing,149890
+40000,Oklahoma,600,      Wholesale trade,63152
+40000,Oklahoma,700,      Retail trade,228279
+40000,Oklahoma,800,      Transportation and warehousing,81197
+40000,Oklahoma,900,      Information,25997
+40000,Oklahoma,1000,      Finance and insurance,103675
+40000,Oklahoma,1100,      Real estate and rental and leasing,89837
+40000,Oklahoma,1200,"      Professional, scientific, and technical services",115597
+40000,Oklahoma,1300,      Management of companies and enterprises,22934
+40000,Oklahoma,1400,      Administrative and support and waste management and remediation services,138636
+40000,Oklahoma,1500,      Educational services,31027
+40000,Oklahoma,1600,      Health care and social assistance,220495
+40000,Oklahoma,1700,"      Arts, entertainment, and recreation",36144
+40000,Oklahoma,1800,      Accommodation and food services,169253
+40000,Oklahoma,1900,      Other services (except government and government enterprises),128517
+40000,Oklahoma,2000,    Government and government enterprises,368628
+41000,Oregon,70,  Farm employment,68035
+41000,Oregon,100,"      Forestry, fishing, and related activities",33856
+41000,Oregon,200,"      Mining, quarrying, and oil and gas extraction",5960
+41000,Oregon,300,      Utilities,5113
+41000,Oregon,400,      Construction,141900
+41000,Oregon,500,      Manufacturing,213599
+41000,Oregon,600,      Wholesale trade,82827
+41000,Oregon,700,      Retail trade,261088
+41000,Oregon,800,      Transportation and warehousing,101927
+41000,Oregon,900,      Information,43637
+41000,Oregon,1000,      Finance and insurance,96972
+41000,Oregon,1100,      Real estate and rental and leasing,121277
+41000,Oregon,1200,"      Professional, scientific, and technical services",169951
+41000,Oregon,1300,      Management of companies and enterprises,50566
+41000,Oregon,1400,      Administrative and support and waste management and remediation services,134442
+41000,Oregon,1500,      Educational services,59451
+41000,Oregon,1600,      Health care and social assistance,298520
+41000,Oregon,1700,"      Arts, entertainment, and recreation",66732
+41000,Oregon,1800,      Accommodation and food services,202374
+41000,Oregon,1900,      Other services (except government and government enterprises),130261
+41000,Oregon,2000,    Government and government enterprises,293882
+42000,Pennsylvania,70,  Farm employment,70806
+42000,Pennsylvania,100,"      Forestry, fishing, and related activities",19500
+42000,Pennsylvania,200,"      Mining, quarrying, and oil and gas extraction",48774
+42000,Pennsylvania,300,      Utilities,25195
+42000,Pennsylvania,400,      Construction,398669
+42000,Pennsylvania,500,      Manufacturing,603101
+42000,Pennsylvania,600,      Wholesale trade,236561
+42000,Pennsylvania,700,      Retail trade,762997
+42000,Pennsylvania,800,      Transportation and warehousing,393050
+42000,Pennsylvania,900,      Information,105200
+42000,Pennsylvania,1000,      Finance and insurance,410639
+42000,Pennsylvania,1100,      Real estate and rental and leasing,318945
+42000,Pennsylvania,1200,"      Professional, scientific, and technical services",526859
+42000,Pennsylvania,1300,      Management of companies and enterprises,146439
+42000,Pennsylvania,1400,      Administrative and support and waste management and remediation services,402080
+42000,Pennsylvania,1500,      Educational services,310487
+42000,Pennsylvania,1600,      Health care and social assistance,1128504
+42000,Pennsylvania,1700,"      Arts, entertainment, and recreation",177530
+42000,Pennsylvania,1800,      Accommodation and food services,515346
+42000,Pennsylvania,1900,      Other services (except government and government enterprises),425216
+42000,Pennsylvania,2000,    Government and government enterprises,772497
+44000,Rhode Island,70,  Farm employment,1448
+44000,Rhode Island,100,"      Forestry, fishing, and related activities",(D)
+44000,Rhode Island,200,"      Mining, quarrying, and oil and gas extraction",(D)
+44000,Rhode Island,300,      Utilities,1546
+44000,Rhode Island,400,      Construction,31998
+44000,Rhode Island,500,      Manufacturing,42883
+44000,Rhode Island,600,      Wholesale trade,18076
+44000,Rhode Island,700,      Retail trade,57793
+44000,Rhode Island,800,      Transportation and warehousing,21108
+44000,Rhode Island,900,      Information,7857
+44000,Rhode Island,1000,      Finance and insurance,37593
+44000,Rhode Island,1100,      Real estate and rental and leasing,30672
+44000,Rhode Island,1200,"      Professional, scientific, and technical services",42983
+44000,Rhode Island,1300,      Management of companies and enterprises,14269
+44000,Rhode Island,1400,      Administrative and support and waste management and remediation services,37843
+44000,Rhode Island,1500,      Educational services,33076
+44000,Rhode Island,1600,      Health care and social assistance,88983
+44000,Rhode Island,1700,"      Arts, entertainment, and recreation",18099
+44000,Rhode Island,1800,      Accommodation and food services,53107
+44000,Rhode Island,1900,      Other services (except government and government enterprises),33932
+44000,Rhode Island,2000,    Government and government enterprises,72676
+45000,South Carolina,70,  Farm employment,27491
+45000,South Carolina,100,"      Forestry, fishing, and related activities",12250
+45000,South Carolina,200,"      Mining, quarrying, and oil and gas extraction",4964
+45000,South Carolina,300,      Utilities,12506
+45000,South Carolina,400,      Construction,162097
+45000,South Carolina,500,      Manufacturing,259885
+45000,South Carolina,600,      Wholesale trade,79247
+45000,South Carolina,700,      Retail trade,304262
+45000,South Carolina,800,      Transportation and warehousing,107049
+45000,South Carolina,900,      Information,36208
+45000,South Carolina,1000,      Finance and insurance,115218
+45000,South Carolina,1100,      Real estate and rental and leasing,133029
+45000,South Carolina,1200,"      Professional, scientific, and technical services",158649
+45000,South Carolina,1300,      Management of companies and enterprises,26233
+45000,South Carolina,1400,      Administrative and support and waste management and remediation services,226664
+45000,South Carolina,1500,      Educational services,47082
+45000,South Carolina,1600,      Health care and social assistance,241621
+45000,South Carolina,1700,"      Arts, entertainment, and recreation",58949
+45000,South Carolina,1800,      Accommodation and food services,250531
+45000,South Carolina,1900,      Other services (except government and government enterprises),167139
+45000,South Carolina,2000,    Government and government enterprises,411359
+46000,South Dakota,70,  Farm employment,31346
+46000,South Dakota,100,"      Forestry, fishing, and related activities",6083
+46000,South Dakota,200,"      Mining, quarrying, and oil and gas extraction",2615
+46000,South Dakota,300,      Utilities,2081
+46000,South Dakota,400,      Construction,35508
+46000,South Dakota,500,      Manufacturing,47103
+46000,South Dakota,600,      Wholesale trade,22154
+46000,South Dakota,700,      Retail trade,67294
+46000,South Dakota,800,      Transportation and warehousing,19102
+46000,South Dakota,900,      Information,6974
+46000,South Dakota,1000,      Finance and insurance,39903
+46000,South Dakota,1100,      Real estate and rental and leasing,26412
+46000,South Dakota,1200,"      Professional, scientific, and technical services",23079
+46000,South Dakota,1300,      Management of companies and enterprises,5960
+46000,South Dakota,1400,      Administrative and support and waste management and remediation services,19178
+46000,South Dakota,1500,      Educational services,10223
+46000,South Dakota,1600,      Health care and social assistance,71733
+46000,South Dakota,1700,"      Arts, entertainment, and recreation",12760
+46000,South Dakota,1800,      Accommodation and food services,45160
+46000,South Dakota,1900,      Other services (except government and government enterprises),30453
+46000,South Dakota,2000,    Government and government enterprises,86517
+47000,Tennessee,70,  Farm employment,74622
+47000,Tennessee,100,"      Forestry, fishing, and related activities",11454
+47000,Tennessee,200,"      Mining, quarrying, and oil and gas extraction",8832
+47000,Tennessee,300,      Utilities,4045
+47000,Tennessee,400,      Construction,226412
+47000,Tennessee,500,      Manufacturing,367789
+47000,Tennessee,600,      Wholesale trade,131179
+47000,Tennessee,700,      Retail trade,421526
+47000,Tennessee,800,      Transportation and warehousing,235649
+47000,Tennessee,900,      Information,58894
+47000,Tennessee,1000,      Finance and insurance,183038
+47000,Tennessee,1100,      Real estate and rental and leasing,162948
+47000,Tennessee,1200,"      Professional, scientific, and technical services",229601
+47000,Tennessee,1300,      Management of companies and enterprises,54910
+47000,Tennessee,1400,      Administrative and support and waste management and remediation services,311412
+47000,Tennessee,1500,      Educational services,81753
+47000,Tennessee,1600,      Health care and social assistance,430386
+47000,Tennessee,1700,"      Arts, entertainment, and recreation",95851
+47000,Tennessee,1800,      Accommodation and food services,328564
+47000,Tennessee,1900,      Other services (except government and government enterprises),248868
+47000,Tennessee,2000,    Government and government enterprises,451783
+48000,Texas,70,  Farm employment,272692
+48000,Texas,100,"      Forestry, fishing, and related activities",66776
+48000,Texas,200,"      Mining, quarrying, and oil and gas extraction",472231
+48000,Texas,300,      Utilities,57045
+48000,Texas,400,      Construction,1194018
+48000,Texas,500,      Manufacturing,965227
+48000,Texas,600,      Wholesale trade,636392
+48000,Texas,700,      Retail trade,1658345
+48000,Texas,800,      Transportation and warehousing,893546
+48000,Texas,900,      Information,260262
+48000,Texas,1000,      Finance and insurance,1039012
+48000,Texas,1100,      Real estate and rental and leasing,793820
+48000,Texas,1200,"      Professional, scientific, and technical services",1208630
+48000,Texas,1300,      Management of companies and enterprises,202759
+48000,Texas,1400,      Administrative and support and waste management and remediation services,1170655
+48000,Texas,1500,      Educational services,279491
+48000,Texas,1600,      Health care and social assistance,1698315
+48000,Texas,1700,"      Arts, entertainment, and recreation",304430
+48000,Texas,1800,      Accommodation and food services,1344174
+48000,Texas,1900,      Other services (except government and government enterprises),1005377
+48000,Texas,2000,    Government and government enterprises,2075647
+49000,Utah,70,  Farm employment,21165
+49000,Utah,100,"      Forestry, fishing, and related activities",4196
+49000,Utah,200,"      Mining, quarrying, and oil and gas extraction",14460
+49000,Utah,300,      Utilities,4988
+49000,Utah,400,      Construction,133414
+49000,Utah,500,      Manufacturing,143461
+49000,Utah,600,      Wholesale trade,56739
+49000,Utah,700,      Retail trade,216210
+49000,Utah,800,      Transportation and warehousing,83459
+49000,Utah,900,      Information,44328
+49000,Utah,1000,      Finance and insurance,131661
+49000,Utah,1100,      Real estate and rental and leasing,117678
+49000,Utah,1200,"      Professional, scientific, and technical services",159186
+49000,Utah,1300,      Management of companies and enterprises,29408
+49000,Utah,1400,      Administrative and support and waste management and remediation services,116220
+49000,Utah,1500,      Educational services,67926
+49000,Utah,1600,      Health care and social assistance,172715
+49000,Utah,1700,"      Arts, entertainment, and recreation",47952
+49000,Utah,1800,      Accommodation and food services,133541
+49000,Utah,1900,      Other services (except government and government enterprises),103418
+49000,Utah,2000,    Government and government enterprises,258813
+50000,Vermont,70,  Farm employment,9320
+50000,Vermont,100,"      Forestry, fishing, and related activities",3402
+50000,Vermont,200,"      Mining, quarrying, and oil and gas extraction",1316
+50000,Vermont,300,      Utilities,1449
+50000,Vermont,400,      Construction,28927
+50000,Vermont,500,      Manufacturing,34162
+50000,Vermont,600,      Wholesale trade,10380
+50000,Vermont,700,      Retail trade,46754
+50000,Vermont,800,      Transportation and warehousing,10699
+50000,Vermont,900,      Information,5913
+50000,Vermont,1000,      Finance and insurance,14071
+50000,Vermont,1100,      Real estate and rental and leasing,16418
+50000,Vermont,1200,"      Professional, scientific, and technical services",27795
+50000,Vermont,1300,      Management of companies and enterprises,2347
+50000,Vermont,1400,      Administrative and support and waste management and remediation services,19373
+50000,Vermont,1500,      Educational services,19479
+50000,Vermont,1600,      Health care and social assistance,59988
+50000,Vermont,1700,"      Arts, entertainment, and recreation",12473
+50000,Vermont,1800,      Accommodation and food services,36535
+50000,Vermont,1900,      Other services (except government and government enterprises),22218
+50000,Vermont,2000,    Government and government enterprises,57651
+51000,Virginia,70,  Farm employment,49861
+51000,Virginia,100,"      Forestry, fishing, and related activities",14323
+51000,Virginia,200,"      Mining, quarrying, and oil and gas extraction",11407
+51000,Virginia,300,      Utilities,11410
+51000,Virginia,400,      Construction,292561
+51000,Virginia,500,      Manufacturing,255217
+51000,Virginia,600,      Wholesale trade,121419
+51000,Virginia,700,      Retail trade,499888
+51000,Virginia,800,      Transportation and warehousing,228349
+51000,Virginia,900,      Information,84478
+51000,Virginia,1000,      Finance and insurance,227252
+51000,Virginia,1100,      Real estate and rental and leasing,240773
+51000,Virginia,1200,"      Professional, scientific, and technical services",572803
+51000,Virginia,1300,      Management of companies and enterprises,80830
+51000,Virginia,1400,      Administrative and support and waste management and remediation services,321380
+51000,Virginia,1500,      Educational services,110758
+51000,Virginia,1600,      Health care and social assistance,508090
+51000,Virginia,1700,"      Arts, entertainment, and recreation",114580
+51000,Virginia,1800,      Accommodation and food services,380982
+51000,Virginia,1900,      Other services (except government and government enterprises),313211
+51000,Virginia,2000,    Government and government enterprises,885736
+53000,Washington,70,  Farm employment,84924
+53000,Washington,100,"      Forestry, fishing, and related activities",44225
+53000,Washington,200,"      Mining, quarrying, and oil and gas extraction",8616
+53000,Washington,300,      Utilities,5595
+53000,Washington,400,      Construction,273299
+53000,Washington,500,      Manufacturing,309746
+53000,Washington,600,      Wholesale trade,144124
+53000,Washington,700,      Retail trade,466804
+53000,Washington,800,      Transportation and warehousing,201249
+53000,Washington,900,      Information,147463
+53000,Washington,1000,      Finance and insurance,171694
+53000,Washington,1100,      Real estate and rental and leasing,215243
+53000,Washington,1200,"      Professional, scientific, and technical services",336504
+53000,Washington,1300,      Management of companies and enterprises,49096
+53000,Washington,1400,      Administrative and support and waste management and remediation services,223214
+53000,Washington,1500,      Educational services,83230
+53000,Washington,1600,      Health care and social assistance,484567
+53000,Washington,1700,"      Arts, entertainment, and recreation",110569
+53000,Washington,1800,      Accommodation and food services,314058
+53000,Washington,1900,      Other services (except government and government enterprises),229589
+53000,Washington,2000,    Government and government enterprises,656523
+54000,West Virginia,70,  Farm employment,22828
+54000,West Virginia,100,"      Forestry, fishing, and related activities",3059
+54000,West Virginia,200,"      Mining, quarrying, and oil and gas extraction",32928
+54000,West Virginia,300,      Utilities,5486
+54000,West Virginia,400,      Construction,54208
+54000,West Virginia,500,      Manufacturing,49955
+54000,West Virginia,600,      Wholesale trade,22336
+54000,West Virginia,700,      Retail trade,102109
+54000,West Virginia,800,      Transportation and warehousing,29721
+54000,West Virginia,900,      Information,10096
+54000,West Virginia,1000,      Finance and insurance,26511
+54000,West Virginia,1100,      Real estate and rental and leasing,26931
+54000,West Virginia,1200,"      Professional, scientific, and technical services",40760
+54000,West Virginia,1300,      Management of companies and enterprises,7730
+54000,West Virginia,1400,      Administrative and support and waste management and remediation services,44865
+54000,West Virginia,1500,      Educational services,13242
+54000,West Virginia,1600,      Health care and social assistance,126502
+54000,West Virginia,1700,"      Arts, entertainment, and recreation",14954
+54000,West Virginia,1800,      Accommodation and food services,70905
+54000,West Virginia,1900,      Other services (except government and government enterprises),46212
+54000,West Virginia,2000,    Government and government enterprises,152624
+55000,Wisconsin,70,  Farm employment,84483
+55000,Wisconsin,100,"      Forestry, fishing, and related activities",17016
+55000,Wisconsin,200,"      Mining, quarrying, and oil and gas extraction",7179
+55000,Wisconsin,300,      Utilities,9535
+55000,Wisconsin,400,      Construction,185103
+55000,Wisconsin,500,      Manufacturing,494421
+55000,Wisconsin,600,      Wholesale trade,134571
+55000,Wisconsin,700,      Retail trade,377516
+55000,Wisconsin,800,      Transportation and warehousing,147817
+55000,Wisconsin,900,      Information,55749
+55000,Wisconsin,1000,      Finance and insurance,182834
+55000,Wisconsin,1100,      Real estate and rental and leasing,134760
+55000,Wisconsin,1200,"      Professional, scientific, and technical services",176587
+55000,Wisconsin,1300,      Management of companies and enterprises,70818
+55000,Wisconsin,1400,      Administrative and support and waste management and remediation services,181940
+55000,Wisconsin,1500,      Educational services,71315
+55000,Wisconsin,1600,      Health care and social assistance,435193
+55000,Wisconsin,1700,"      Arts, entertainment, and recreation",78655
+55000,Wisconsin,1800,      Accommodation and food services,263569
+55000,Wisconsin,1900,      Other services (except government and government enterprises),189944
+55000,Wisconsin,2000,    Government and government enterprises,437424
+56000,Wyoming,70,  Farm employment,14560
+56000,Wyoming,100,"      Forestry, fishing, and related activities",3411
+56000,Wyoming,200,"      Mining, quarrying, and oil and gas extraction",27453
+56000,Wyoming,300,      Utilities,2625
+56000,Wyoming,400,      Construction,28716
+56000,Wyoming,500,      Manufacturing,12270
+56000,Wyoming,600,      Wholesale trade,9071
+56000,Wyoming,700,      Retail trade,38615
+56000,Wyoming,800,      Transportation and warehousing,16287
+56000,Wyoming,900,      Information,4751
+56000,Wyoming,1000,      Finance and insurance,18551
+56000,Wyoming,1100,      Real estate and rental and leasing,24051
+56000,Wyoming,1200,"      Professional, scientific, and technical services",18039
+56000,Wyoming,1300,      Management of companies and enterprises,1735
+56000,Wyoming,1400,      Administrative and support and waste management and remediation services,14105
+56000,Wyoming,1500,      Educational services,3991
+56000,Wyoming,1600,      Health care and social assistance,30617
+56000,Wyoming,1700,"      Arts, entertainment, and recreation",8255
+56000,Wyoming,1800,      Accommodation and food services,35917
+56000,Wyoming,1900,      Other services (except government and government enterprises),17920
+56000,Wyoming,2000,    Government and government enterprises,74070
